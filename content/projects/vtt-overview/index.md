@@ -33,8 +33,13 @@ Robotic trusses built with these modules can morph their shape to [move around i
 
 
 My main research work concerns the **reconfiguration and motion planning** problem.
-That is, given some start and goal configurations, how can we find some sequence of robot motions to transform into the goal?
+That is, given some start and goal configurations---for example, the two trusses shown below---how can we find some sequence of robot motions to transform into the goal?
 The parallel nature of the truss robot architecture makes this a surprisingly challenging problem.
+
+{{< gallery >}}
+  <img src="hw_tent.jpeg" class="grid-w55" />
+  <img src="hw_tower.jpeg" class="grid-w45" />
+{{< /gallery >}}
 
 Aside from motion planning, I also work on the hardware design and control software for the robot.
 Developing this robot system has been a collaborative effort from many Modlab members, but I have led the hardware design for the last few years.

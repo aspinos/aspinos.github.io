@@ -17,3 +17,5 @@ For more details about this research, check out the [VTT page](https://www.modla
 Before coming to Penn, I got my bachelor's degree in Mechanical Engineering from Johns Hopkins University.
 At JHU, I led the Design, Build, Fly team, which designs fixed-wing RC aircraft for a competition.
 Other projects from that time include an attachment for a quadrotor to allow it to perch on tree branches and a pneumatic motor for MR-compatible medical robots.
+
+{{< figure src="profile.jpeg" alt="Me with a VTT" caption="Photo by Justin Nachea">}}
